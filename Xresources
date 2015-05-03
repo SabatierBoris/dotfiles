@@ -1,0 +1,28 @@
+!Default option
+
+*scrollBar: false
+
+! Xft ----------------
+!Xft.autohint:  0
+!Xft.lcdfilter: lcddefault
+Xft.hintstyle: hintslight
+Xft.hinting:   true
+Xft.antialias: true
+Xft.dpi:       96
+Xft.rgba:      rgb
+
+URxvt.depth: 0
+
+URxvt.intensityStyles: false
+
+URxvt.allow_bold: false
+URxvt.saveLines : 8192
+
+URxvt.perl-ext-common: default,matcher
+URxvt.font: xft:inconsolata:pixelsize=12:Regular
+URxvt.boldFont: xft:inconsolata:pixelsize=12:Bold
+URxvt.italicFont: xft:inconsolata:pixelsize=12:Italic
+URxvt.boldItalicFont: xft:inconsolata:pixelsize=12:Bold:Italic
+URxvt.letterSpace: 0
+
+#include "/home/boris/.config/colorThemes/URXVT/IR_black.theme"

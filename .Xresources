@@ -1,8 +1,0 @@
-!Default option
-
-*scrollBar: false
-
-!URxvt.font: xft:inconsolata:pixelsize=14
-URxvt.font: xft:MesloLGS:pixelsize=12
-
-#include "/home/boris/.config/termcolours/LuciusBlackLowContrast"
