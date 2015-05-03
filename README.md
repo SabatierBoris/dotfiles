@@ -7,5 +7,5 @@ Thanks
 ------
 
 For doing this, I use many other resources like : 
- - [zezhyrule/dotfiles(https://github.com/zezhyrule/dotfiles)
+ - [zezhyrule/dotfiles](https://github.com/zezhyrule/dotfiles)
 
