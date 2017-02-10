@@ -51,6 +51,28 @@ set nocompatible
 set number
 set autoread
 set nowrap
+set hidden
+set tabstop=4
+set shiftwidth=4
+set shiftround
+set autoindent
+set showmatch
+set ignorecase
+set smartcase
+set smarttab
+set hlsearch
+set incsearch
+set history=1000
+set undolevels=1000
+set wildignore=*.swp,*.bak,*.pyc
+set title
+
+filetype plugin indent on
+autocmd filetype python set expandtab
+
+set list
+set listchars=tab:>.,trail:.,extends:#,nbsp:.
+
 
 
 
